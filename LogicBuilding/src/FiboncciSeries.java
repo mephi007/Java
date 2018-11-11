@@ -36,6 +36,6 @@ public class FiboncciSeries {
 		}
 		System.out.println("\n");
 		System.out.println("nth Fibonacci Series::");
-		System.out.println(arr[limit]);
+		System.out.println(arr[limit-1]);
 	}
 }
